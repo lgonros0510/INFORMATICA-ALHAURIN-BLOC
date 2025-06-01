@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(135deg, #e0e7ff 0%, #fffde4 100%);
+
+}
+
+.card {
+    border-radius: 1.2rem;
+
+}
+
+#app-section h1 {
+    letter-spacing: 2px;
+
+}
+
+#logout-btn {
+    margin-top: 8px;
+
+}
+
+.table thead th {
+    background: #0d6efd !important;
+    color: #fff !important;
+
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #f0f4ff;
+
+}
